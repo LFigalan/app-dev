@@ -1,4 +1,5 @@
 # app-dev
 My first repository
-# H1 
-Hi 
+# **My favorite series is Our Beloved Summer**
+---
+## *I also like All of Us Are Dead*
